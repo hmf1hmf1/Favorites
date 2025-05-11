@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 dirty rice\n salmon\n avocado\n
 dirty rice\n salmon\n avocado\n
+=======
+Matrix, Interstellar, Star Trek
+>>>>>>> movies
